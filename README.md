@@ -9,7 +9,7 @@ Instruction:
    - Lat and Lng; or
    - Address
 3. Assign the result as JSONObject object.
-4. If it's success, the result will be not null. Otherwise, null.
+4. If it's succeed, the result will be not null. Otherwise, null.
 
 example:
 --------
